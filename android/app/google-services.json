@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494549120743",
+    "project_id": "quick-buy-eff0e",
+    "storage_bucket": "quick-buy-eff0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494549120743:android:33f79b2572bfcc8b6f5442",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh-laZRGfhC4DFPx_id7PJczwL9j_IV4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
